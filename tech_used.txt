@@ -1,0 +1,6 @@
+python -> restapi
+svelte -> frontend
+postgresql -> database
+rabitmq -> queue
+docker -> deploy and development
+devcontainer -> development
